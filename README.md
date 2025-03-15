@@ -40,10 +40,10 @@ The Monthly View provides a **detailed breakdown for a specific month**, allowin
 **The Patient Details View provides a granular-level patient dataset**, including patient ID, gender, age, race, department referral, wait time, and admission status.
 
 #### Key Insights:
--**Demographic Data**: Helps in understanding patient trends based on age, gender, and race.
--**Admission Patterns**: Identifies common reasons for admissions vs. non-admissions.
--**Department Trends**: Shows the most frequently referred departments.
--**Wait Times Analysis**: Helps identify bottlenecks in patient processing.
+- **Demographic Data**: Helps in understanding patient trends based on age, gender, and race.
+- **Admission Patterns**: Identifies common reasons for admissions vs. non-admissions.
+- **Department Trends**: Shows the most frequently referred departments.
+- **Wait Times Analysis**: Helps identify bottlenecks in patient processing.
 
 ## **Power BI Visualizations**
  **Bar Charts** – Patient Volume by Department  
