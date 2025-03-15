@@ -50,7 +50,8 @@ The Monthly View provides a **detailed breakdown for a specific month**, allowin
  **Line Charts** – Admission Trends Over Time  
  **Pie Charts** – Insurance vs. Self-Pay Patients  
  **KPI Cards** – ER Visits, Avg. Waiting Time, Admission Rate  
- **Tables** – Patient Demographics & Billing Insights  
+ **Tables** – Patient Demographics & Billing Insights 
+ **Matrix** - No of Patients by Day and Hour
 
 
 ## **Project Files**
